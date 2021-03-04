@@ -1,4 +1,4 @@
-<img src="https://mariapazpagnossin.com/assets/img/banner-github-2.png">
+<img src="https://mariapazpagnossin.com/assets/img/banner-github-3.png">
 
 ## Sobre Mi
 Soy diseñadora gráfica, desarrolladora web front-end y entusiasta del UXUI Design.
@@ -13,4 +13,5 @@ Mediante el diseño ayudo a las empresas a construir una imagen de marca atracti
 - Github: https://github.com/mariapazpagnossin
 - Behance: https://www.behance.net/mariapazpagnossin
 
-<img src="https://mariapazpagnossin.com/assets/img/banner-github.jpg">
+
+<img src="https://mariapazpagnossin.com/assets/img/banner-github-new.jpg">
