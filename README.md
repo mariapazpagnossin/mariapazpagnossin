@@ -1,8 +1,8 @@
 <img src="https://mariapazpagnossin.com/assets/img/banner-github-3.png">
 
 ## Sobre Mi
-Soy diseñadora gráfica, desarrolladora web front-end y entusiasta del UXUI Design.
-Mediante el diseño ayudo a las empresas a construir una imagen de marca atractiva, mejorando la comunicación y diseñando gráficas efectivas pensadas en el usuario.
+Ayudo a las empresas a construir un producto digital efectivo y una imagen de marca atractiva, pensado para el usuario y sus necesidades.
+Soy diseñadora gráfica y me formé en desarrollo web frontend, experiencia de usuario e interfaces gráficas, que me permite aportar un conocimiento global y transversal a su equipo de trabajo. Busco una oportunidad laboral en una empresa tecnológica para crear y desarrollar nuevos proyectos.
 
 ## ¡Conozca mi trabajo! 📌
 - Portfolio web: https://mariapazpagnossin.com/
