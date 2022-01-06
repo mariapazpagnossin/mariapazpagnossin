@@ -1,9 +1,7 @@
 <img src="https://mariapazpagnossin.com/assets/img/banner-github-3.png">
 
 ## Sobre Mi
-Ayudo a las empresas a construir un producto digital efectivo con imagen de marca atractiva, pensando siempre en el usuario y sus necesidades.
-
-Mi formación en diseño gráfico, experiencia de usuario y desarrollo web frontend, me permite aportar un conocimiento global y transversal a los equipos de trabajo. Me encanta trabajar en grupos multidisciplinares e implicarme al máximo en cada proyecto que realizo.
+Ayudo a las empresas a construir un producto digital efectivo con una imagen de marca atractiva, pensada en el usuario y sus necesidades. Mi formación en diseño gráfico y desarrollo web frontend, me permite aportar un conocimiento global y transversal a los equipos de trabajo.
 
 ▶ ¿Palabras que me definen? Productiva, meticulosa y creativa.
 
