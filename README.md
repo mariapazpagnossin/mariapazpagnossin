@@ -1,4 +1,4 @@
-<img src="https://mariapazpagnossin.com/assets/img/banner-github-3.png">
+<img src="https://mariapazpagnossin.github.io/Portfolio/assets/img/banner-github-3.png">
 
 ## Sobre Mi
 Ayudo a las empresas a construir un producto digital efectivo con una imagen de marca atractiva, pensada en el usuario y sus necesidades. Mi formación en diseño gráfico y desarrollo web frontend, me permite aportar un conocimiento global y transversal a los equipos de trabajo.
@@ -13,6 +13,3 @@ Ayudo a las empresas a construir un producto digital efectivo con una imagen de 
 - LinkedIn: https://linkedin.com/in/mariapazpagnossin
 - Github: https://github.com/mariapazpagnossin
 - Behance: https://www.behance.net/mariapazpagnossin
-
-
-<img src="https://mariapazpagnossin.com/assets/img/banner-github-new.jpg">
